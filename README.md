@@ -1,9 +1,4 @@
----
-language: none
-tags: javascript, flow control, arrays, loops
-type: lecture
-resources: 0
----
+
 
 ## Arrays & Loops ~ 34min
 
