@@ -9,3 +9,4 @@ These videos are also available as a single [continuous playlist from the link h
 [Slides - Arrays & Loops](https://docs.google.com/presentation/d/1_vbs1-cpbzCg5MQm0LwABhhlBZAhtcBkOn4qr_6ipjc/edit?usp=sharing)
 
 [Slides - Functions](https://docs.google.com/presentation/d/1yoZyfQbvEfw53Pp03Bd_ziY8-Ai0jqCeQ0NKy4EAce8/edit?usp=sharing)
+<a href='https://learn.co/lessons/fe-js-arrays-and-loops' data-visibility='hidden'>View this lesson on Learn.co</a>
